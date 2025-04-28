@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  
+  - caption: Tutorials
+    chapters:
+    - file: day0_preparation/readme.md
+    - file: day0_preparation/readme.md
+
+  - caption: Other information
+    chapters:
+    - file: CONDUCT
+    - file: LICENSE
+    - file: imprint
