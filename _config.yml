@@ -24,7 +24,8 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  sphinx:
+
+sphinx:
   config:
     html_show_copyright: true
     html_last_updated_fmt: '%Y-%m-%d'
