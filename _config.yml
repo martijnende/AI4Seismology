@@ -8,7 +8,7 @@
 title                       : AI4Seismology Training School @ ScaDS.AI, May 2025
 author                      : Josefine Umlauft, Jannes Münchmeyer, Martijn van den Ende, Marius Isken, Robert Haase
 copyright                   : "2025"
-logo                        : logo.png
+logo                        : scads_logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
