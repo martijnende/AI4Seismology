@@ -11,4 +11,4 @@ parts:
 
   - caption: Other information
     chapters:
-    - file: LICENSE
+      - file: LICENSE
